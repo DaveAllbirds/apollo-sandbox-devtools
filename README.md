@@ -1,5 +1,4 @@
 <div align="center">
-<img src="public/icon-128.png" alt="logo"/>
 <h1>Apollo Sandbox - Chrome Extension</h1>
 
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
