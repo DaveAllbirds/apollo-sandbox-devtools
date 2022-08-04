@@ -1,6 +1,8 @@
 <div align="center">
 <h1>Apollo Sandbox - Chrome Extension</h1>
 
+<img width="1679" alt="CleanShot 2022-08-04 at 09 04 40@2x" src="https://user-images.githubusercontent.com/94491191/182894912-d68400a7-b137-4791-ac4e-34bb27175878.png">
+
 ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![](https://badges.aleen42.com/src/vitejs.svg)
