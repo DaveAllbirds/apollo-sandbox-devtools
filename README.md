@@ -27,7 +27,7 @@ Add a private Chrome Devtools panel for querying any GraphQL endpoint.
 
 ## Installation
 
-1. Clone this repository for each graphql endpoint you'd like to use.
+1. Clone the repo
 2. Change `name` and `description` in package.json - **The manifest will pull in those values and use them for the Chrome Extention**
 3. Run `yarn` or `npm i`
 4. Run `yarn dev` or `npm run dev`
